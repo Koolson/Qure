@@ -57,5 +57,5 @@ Quantumult X最美简白风策略组图标现以**Qure**全新呈现<br>
 4.其它人通过任何方式登陆本网站或直接、间接使用Qure项目相关资源，均应仔细阅读本声明，一旦使用、转载Qure项目任何相关教程或资源，即被视为您已接受此免责声明。<br>
 
 ## 效果图预览
-[查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview.png)<br>
+[查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)<br>
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)
