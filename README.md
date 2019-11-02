@@ -31,7 +31,7 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 
 ## 补充说明
 1.转载请注明出处，谢谢！<br>
-2.归档图标：图标不在预览图中展示，但仍支持订阅；包括：Dler.png、rix.png、N3PRO.png、YoYu.png、MAYING.png、Nexitally.png、BosLife.png、BosLife_Letter.png、YTOO_Letter.png、YTOO.png、Taiwan.png<br>
+2.归档图标：图标不在预览图中展示，但仍支持订阅；包括：Dler.png、rix.png、N3RO.png、YoYu.png、MAYING.png、Nexitally.png、BosLife.png、BosLife_Letter.png、YTOO_Letter.png、YTOO.png、Taiwan.png<br>
 3.需要新增策略图标，请提Issues或Telegram中说明图标名称并附上相关图标资源链接。<br>
 
 ## 更新日志
