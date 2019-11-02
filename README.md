@@ -1,5 +1,5 @@
 # Qure<br>
-![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureLogo.png)
+![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Logo.png)
 <br>
 
 ## 简介
@@ -49,4 +49,4 @@ v2.0<br>
 
 ## 效果图预览
 [查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview.png)
-![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview.png)
+![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)
