@@ -38,7 +38,16 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 v2.0<br>
 2019-11-2<br>
 Quantumult X最美简白风策略组图标现以**Qure**全新呈现<br>
-1.图标组：待补充；图标文件稍晚上传<br>
+图标名录：<br>
+**Default**：Direct.png、Proxy.png、Reject.png、Static.png、Round_Robin.png、SSID.png、Available.png、<br>
+**Common**：Back.png、Final.png、ForeignMedia.png、DomesticMedia.png、HKMTMedia.png、Domestic.png、Global.png、Auto.png<br>
+**Inhibition**：Hijacking.png、AdWhite.png、AdBlack.png、Advertising.png<br>
+**Service**：Cloudflare.png、Apple.png、Google.png、Mail.png、Microsoft.png、Windows.png、Yahoo.png、Yahoo_Letter.png<br>
+**App**：Telegram.png、Telegram_X.png、Speedtest.png、Spark.png、OneDrive.png、PayPal.png、Apple_News.png、Twitter.png、Facebook.png、Instagram.png<br>
+**Other**：Star.png、Heart.png、Download.png、Bot.png、Loop.png、Lab.png、Bypass.png、Magic.png、Daily.png<br>
+**Area**：Russia.png、Singapore.png、United_States.png、China.png、Japan.png、Korea.png、Hong_Kong.png、Macao.png、United_Kingdom.png、United_Nations.png、Canada.png、Turkey.png、UK.png、CN.png、HK.png、MO.png、US.png、SG.png、JP.png、RU.png、KR.png、TR.png、CA.png、IN.png、UN.png、DE.png、FI.png、TW.png<br>
+**Media**：YouTube.png、YouTube_Letter.png、bilibili.png、myTV_SUPER.png、PBS.png、My5.png、encoreTVB.png、LineTV_Letter.png、LineTV.png、LiTV.png、ESPN+.png、Prime_Video.png、Deezer_Letter.png、ITV Hub.png、JOOX.png、DAZN.png、Deezer.png、Bahamut.png、All4.png、AbemaTV_Letter.png、AbemaTV.png、Netease_Music_Unlock.png、Netease_Music.png、Pandora.png、Disney+.png、KKBOX.png、HBO.png、KKTV.png、BBC_iPlayer.png、FOX.png、YouTube_Music.png、TIDAL.png、ViuTV.png、Vimeo.png、Spotify.png、Pornhub.png、iQIYI&bilibili.png、Netflix.png、iQIYI.png、Netflix_Letter.png、TikTok.png、Hulu.png、TVB.png、Twitch.png<br>
+**Server**：IPLC.png、BGP.png、CN2_GIA.png、Oracle.png、BBTEC.png、DMIT.png、CN2_GT.png、SoftBank_Letter.png、SoftBank.png、CN2.png、KT.png、IIJ.png、SK.png、HiNet.png、NTT.png、WTT.png、Apol.png、PCCW.png、HKT.png、CTM.png、HGC.png、Tencent_Cloud.png、HKBN.png、CMI.png、Azure.png、Alibaba_Cloud.png、AWS.png、GCP.png、Baidu_Cloud.png、＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png、＊3.png<br>
 
 ## 免责声明
 1.Qure项目内所涉及图标、LOGO仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性。<br>
