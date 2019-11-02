@@ -36,9 +36,9 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 
 ## 更新日志
 v2.0.1<br>
-2019-11-2
-1. 图标新增：Rocket.png<br>
-2. 图标优化：Download.png<br>
+2019-11-2<br>
+1.图标新增：Rocket.png<br>
+2.图标优化：Download.png<br>
 
 v2.0<br>
 2019-11-2<br>
