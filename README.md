@@ -21,8 +21,7 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)
 
 ### 方式二：本地图标<br>
-*不支持多设备同步图标*<br>
-*图标更新时，需要手动下载图标并进行本地替换操作*<br>
+*不支持多设备同步图标；图标更新时，需要手动下载图标并进行本地替换操作*<br>
 *该操作以Quantumult X v1.0.0-build91为例*<br>
 
 1.打开"文件"应用后，依次进入“我的iPhone→Quantumult X→Images”<br>
