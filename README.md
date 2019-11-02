@@ -35,6 +35,11 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 3.需要新增策略图标，请提Issues或Telegram中说明图标名称并附上相关图标资源链接。<br>
 
 ## 更新日志
+v2.0.1<br>
+2019-11-2<br>
+1. 图标新增：Rocket.png<br>
+2. 图标优化：Download.png<br>
+
 v2.0<br>
 2019-11-2<br>
 Quantumult X最美简雅风策略组图标现以Qure全新呈现<br>
