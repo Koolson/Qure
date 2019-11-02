@@ -37,7 +37,7 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 ## 更新日志
 v2.0<br>
 2019-11-2<br>
-Quantumult X最美简白风策略组图标现以**Qure**全新呈现<br>
+Quantumult X最美简雅风策略组图标现以Qure全新呈现<br>
 图标名录：<br>
 **Default**：Direct.png、Proxy.png、Reject.png、Static.png、Round_Robin.png、SSID.png、Available.png<br>
 **Common**：Back.png、Final.png、ForeignMedia.png、DomesticMedia.png、HKMTMedia.png、Domestic.png、Global.png、Auto.png<br>
