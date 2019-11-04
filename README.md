@@ -37,6 +37,12 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 5.流媒体图标组全面适配神机规则的[Meida](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/Filter/Media)<br>
 
 ## 更新日志
+v2.1<br>
+2019-11-5<br>
+1.图标新增：niconico.png、niconico_Letter.png、Germany.png<br>
+2.图标优化：deezer_Letter.png<br>
+3.图标改名：Deezer→deezer.png、Deezer_Letter.png→deezer_Letter.png<br>
+
 v2.0.1<br>
 2019-11-2<br>
 1.图标新增：Rocket.png<br>
