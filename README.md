@@ -33,7 +33,7 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 1.转载请注明出处，谢谢！<br>
 2.归档图标：图标不在预览图中展示，但仍支持订阅；Archived：Dler.png、rix.png、N3RO.png、YoYu.png、MAYING.png、Nexitally.png、BosLife.png、BosLife_Letter.png、YTOO_Letter.png、YTOO.png、Taiwan.png<br>
 3.需要新增策略图标，请提Issues或Telegram中说明图标名称并附上相关图标资源链接。<br>
-4.推荐使用Hua姐的[神机规则](https://github.com/ConnersHua/Profiles/blob/master/README.md)-[Filter Remote](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X)与Qure搭配以强化Quantumult X使用体验
+4.推荐使用Hua姐的 [神机规则](https://github.com/ConnersHua/Profiles/blob/master/README.md)-[Filter Remote](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X) 与Qure搭配以强化Quantumult X使用体验
 
 ## 更新日志
 v2.0.1<br>
