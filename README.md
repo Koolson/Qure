@@ -41,7 +41,7 @@ v2.1<br>
 2019-11-5<br>
 1.图标新增：niconico.png、niconico_Letter.png、Germany.png<br>
 2.图标优化：deezer_Letter.png<br>
-3.图标改名：Deezer→deezer.png、Deezer_Letter.png→deezer_Letter.png<br>
+3.图标更名：Deezer→deezer.png、Deezer_Letter.png→deezer_Letter.png<br>
 
 v2.0.1<br>
 2019-11-2<br>
