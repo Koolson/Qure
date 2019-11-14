@@ -37,6 +37,11 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 5.流媒体图标组全面适配神机规则的[Meida](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/Filter/Media)<br>
 
 ## 更新日志
+v2.2<br>
+2019-11-12<br>
+1.图标新增：JOOX_Letter.png、GlobalMedia.png、Game.png、VIP.png<br>
+2.图标优化：Static.png、HKMTMedia.png、Prime_Video.png、Dler.png、JOOX.png、YTOO.png、N3RO.png<br>
+
 v2.1<br>
 2019-11-5<br>
 1.图标新增：niconico.png、niconico_Letter.png、Germany.png<br>
