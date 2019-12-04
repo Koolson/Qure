@@ -37,6 +37,10 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 5.流媒体图标组全面适配神机规则的[Meida](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/Filter/Media)<br>
 
 ## 更新日志
+v2.3<br>
+2019-12-3<br>
+1.图标新增：Apple_TV.png、Apple_TV_Plus.png、Ingress.png、GT.png、GIA.png、CHT.png<br>
+
 v2.2<br>
 2019-11-12<br>
 1.图标新增：JOOX_Letter.png、GlobalMedia.png、Game.png、VIP.png<br>
