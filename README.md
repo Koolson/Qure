@@ -39,7 +39,7 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 ## 更新日志
 v2.3<br>
 2019-12-3<br>
-1.图标新增：Apple_TV.png、Apple_TV_Plus.png、Ingress.png、GT.png、GIA.png、CHT.png<br>
+1.图标新增：Apple_TV.png、Apple_TV_Plus.png、Ingress.png、EU.png、GT.png、GIA.png、CHT.png<br>
 
 v2.2<br>
 2019-11-12<br>
