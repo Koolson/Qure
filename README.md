@@ -12,7 +12,7 @@ Qure是一套专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 
 1.在[IconSet页面](https://github.com/Koolson/Qure/tree/master/IconSet)找到需要的策略组图标并记下**图标名称**（[效果图预览](https://github.com/Koolson/Qure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)，不含归档图标）<br>
 2.在Quantumult X的“配置文件-编辑”中找到[policy]下的策略组字段，并在该策略组的最后一个节点后方加上<br>
-`img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名称.png`
+`img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名称.png`<br>
 例如：<br>
 `static=Hong Kong, 🇭🇰01, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hong_Kong.png`
 ```ruby
