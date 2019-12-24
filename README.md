@@ -17,7 +17,7 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 注意：此处“img”前的英文逗号和空格以及“Hong_Kong.png”图标名称中的下划短横线和字母大小写)<br>
 3.重启Quantumult X即可见到效果<br>
 
-<font color=red>更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“我的 iPhone 或 iCloud Drive-Quantumult X-Images”，删除Images文件夹内所有缓存文件)，并重启Quantumult X，远程图标会重新下载并生效。</font>
+><font color=red>更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“**我的 iPhone 或 iCloud Drive-Quantumult X-Images**”，删除Images文件夹内所有缓存文件)，并重启Quantumult X，远程图标会重新下载并生效。</font>
 
 [查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)
@@ -26,7 +26,7 @@ img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名�
 *不支持多设备同步图标；图标更新时，需要手动下载图标并进行本地替换操作*<br>
 *该操作以Quantumult X v1.0.0-build91为例*<br>
 
-1.打开"文件"应用后，依次进入“我的iPhone→Quantumult X→Images”<br>
+1.打开"文件"应用后，依次进入“我的 iPhone 或 iCloud Drive→Quantumult X→Images”<br>
 2.将**个人设定**的策略组名称**同名的**.png图标文件(.png图标文件可在[IconSet页面](https://github.com/Koolson/Qure/tree/master/IconSet)根据个人需求自行下载)粘贴到Images文件夹内，重启Quantumult X即可见到效果<br>
  [查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Local_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Local_Icon.png)
