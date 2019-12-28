@@ -42,9 +42,9 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 5.流媒体图标组全面适配神机规则的 [Meida](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/Filter/Media)。<br>
 
 ## 更新日志
-v2.3.1<br>
-2019-12-18<br>
-1.图标新增：Google_Opinion_Rewards.png<br>
+v2.4<br>
+2019-12-28<br>
+1.图标新增：Google_Opinion_Rewards.png、WeTV_Letter.png、WeTV.png<br>
 2.图标优化：EU.png<br>
 
 v2.3<br>
