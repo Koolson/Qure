@@ -42,6 +42,11 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 5.流媒体图标组全面适配神机规则的 [Meida](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/Filter/Media)。<br>
 
 ## 更新日志
+v2.5<br>
+2020-1-5<br>
+1.图标新增：Quantumult_X.png、Qure.png、China_Map.png、United_States_Map.png、5iTV.png、Flamingo.png、Want_Want_Letter.png、Want_Want.png、Pig.png、Mouse.png<br>
+
+
 v2.4<br>
 2019-12-28<br>
 1.图标新增：Google_Opinion_Rewards.png、WeTV_Letter.png、WeTV.png<br>
