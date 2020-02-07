@@ -39,7 +39,7 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 2.归档图标：图标不在[效果图预览](https://github.com/Koolson/Qure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)中展示，但仍支持订阅；Archived：Dler.png、rix.png、N3RO.png、YoYu.png、MAYING.png、Nexitally.png、BosLife.png、BosLife_Letter.png、YTOO_Letter.png、YTOO.png、Taiwan.png；<br>
 3.需要新增策略图标，请提 Issues 或 Telegram 中说明图标名称并附上相关图标资源链接；<br>
 4.推荐使用 Hua姐的 [神机规则](https://github.com/ConnersHua/Profiles/blob/master/README.md) - [Filter Remote](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X) 与 Qure 搭配以强化 Quantumult X 使用体验；<br>
-5.流媒体图标组全面适配神机规则的 [Meida](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/Filter/Media)。<br>
+5.流媒体图标组全面适配神机规则的 [Media](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/Filter/Media)。<br>
 
 ## 更新日志
 v2.5<br>
