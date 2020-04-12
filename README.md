@@ -8,7 +8,7 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 ## 使用说明
 ### 方式对比
 | 方式 | 添加图标 | 更新图标 | 图标维护 | 获取及时性 | 操作便利性 | 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 远程图标 | 编辑配置 | 清理缓存 | 图标作者 | ✅ | ✅ |
 | 本地图标 | 编辑配置+文件操作 | 文件操作 | 用户本人 | ❌ | ❌|
 
@@ -20,7 +20,7 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 `img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名称.png`<br>
 例如：<br>
 `static=Hong Kong, 🇭🇰01, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hong_Kong.png`<br>
-```ruby
+```sh
 注意：此处“img”前的英文逗号和空格以及“Hong_Kong.png”图标名称中的下划短横线和字母大小写
 ```
 3. 重启 Quantumult X 即可见到效果。<br>
@@ -60,6 +60,7 @@ v2.7<br>
 1.图标新增：TestFlight.png、App_Store.png、iCloud.png、Apple_Music.png、AmyTelecom.png、CCCAT_C.png、CCCAT.png、JIYOU.png、CONAIR.png、CrossWall.png、NyanCat.png、Airport.png、Server.png、SS_Letter.png、SS.png、SSR_Letter.png、SSR.png、Trojan_Letter.png、Trojan.png、VMess_Letter.png、VMess.png、MY.png、Malaysia.png、IEPL.png<br>
 2.图标优化：Bookpedia.png、Download.png、Quantumult_X.png<br>
 3.图标更名：ITV_Hub.png、x0.1.png、x0.3.png、x0.5.png、x0.png、x1.png、x2.png、x3.png（旧：ITV Hub.png 已删除；＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png、＊3.png 仍支持订阅，并归档处理）<br>
+
 
 
 v2.6<br>
