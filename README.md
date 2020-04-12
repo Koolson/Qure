@@ -27,7 +27,7 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 [查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)
 
-<font color=red>更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“**我的 iPhone 或 iCloud Drive-Quantumult X-Images**”，删除Images文件夹内所有缓存文件)，并重启 Quantumult X，远程图标会重新下载并生效。</font>
+<p><font color=red>更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“我的 iPhone 或 iCloud Drive-Quantumult X-Images”，删除Images文件夹内所有缓存文件)，并重启 Quantumult X，远程图标会重新下载并生效。</font></p>
 
 ### 方式二：本地图标<br>
 *不支持多设备同步图标；图标更新时，需要手动下载图标并进行本地替换操作*<br>
@@ -60,8 +60,7 @@ v2.7<br>
 1.图标新增：TestFlight.png、App_Store.png、iCloud.png、Apple_Music.png、AmyTelecom.png、CCCAT_C.png、CCCAT.png、JIYOU.png、CONAIR.png、CrossWall.png、NyanCat.png、Airport.png、Server.png、SS_Letter.png、SS.png、SSR_Letter.png、SSR.png、Trojan_Letter.png、Trojan.png、VMess_Letter.png、VMess.png、MY.png、Malaysia.png、IEPL.png<br>
 2.图标优化：Bookpedia.png、Download.png、Quantumult_X.png<br>
 3.图标更名：ITV_Hub.png、x0.1.png、x0.3.png、x0.5.png、x0.png、x1.png、x2.png、x3.png（旧：ITV Hub.png 已删除；＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png、＊3.png 仍支持订阅，并归档处理）<br>
-
-
+<br>
 
 v2.6<br>
 2020-2-27<br>
