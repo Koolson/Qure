@@ -58,13 +58,13 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 ## 更新日志
 <details>
 <summary><strong>所有日志</strong></summary><br>
-**v2.7**<br>
+<strong>v2.7</strong><br>
 2020-4-12<br>
-1. 图标新增：direct.png、proxy.png、reject.png、TestFlight.png、App_Store.png、iCloud.png、Apple_Music.png、AmyTelecom.png、CCCAT_C.png、CCCAT.png、JIYOU.png、CONAIR.png、CrossWall.png、NyanCat.png、Airport.png、Server.png、SS_Letter.png、SS.png、SSR_Letter.png、SSR.png、Trojan_Letter.png、Trojan.png、VMess_Letter.png、VMess.png、MY.png、Malaysia.png、IEPL.png
-2. 图标优化：Bookpedia.png、Download.png、Quantumult_X.png、VMess_Letter.png
-3. 图标更名：ITV_Hub.png、x0.1.png、x0.3.png、x0.5.png、x0.png、x1.png、x2.png、x3.png
-4. 图标归档：＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png、＊3.png、Direct.png、Proxy.png、Reject.png5. 图标归档：＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png、＊3.png、Direct.png、Proxy.png、Reject.png
-5. 图标删除：ITV Hub.png
+1. 图标新增：direct.png、proxy.png、reject.png、TestFlight.png、App_Store.png、iCloud.png、Apple_Music.png、AmyTelecom.png、CCCAT_C.png、CCCAT.png、JIYOU.png、CONAIR.png、CrossWall.png、NyanCat.png、Airport.png、Server.png、SS_Letter.png、SS.png、SSR_Letter.png、SSR.png、Trojan_Letter.png、Trojan.png、VMess_Letter.png、VMess.png、MY.png、Malaysia.png、IEPL.png<br>
+2. 图标优化：Bookpedia.png、Download.png、Quantumult_X.png、VMess_Letter.png<br>
+3. 图标更名：ITV_Hub.png、x0.1.png、x0.3.png、x0.5.png、x0.png、x1.png、x2.png、x3.png<br>
+4. 图标归档：＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png、＊3.png、Direct.png、Proxy.png、Reject.png5. 图标归档：＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png、＊3.png、Direct.png、Proxy.png、Reject.png<br>
+5. 图标删除：ITV Hub.png<br>
 <br>
 
 v2.6<br>
