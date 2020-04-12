@@ -7,10 +7,10 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 
 ## 使用说明
 ### 方式对比
-| 方式 | 加载方式 | 添加图标 | 更新图标 | 图标维护 | 获取及时性 | 操作便利性 | 
+| 方式 | 添加图标 | 更新图标 | 图标维护 | 获取及时性 | 操作便利性 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 远程图标 | 联网下载 | 编辑配置 | 清理缓存 | 图标作者 | ✅ | ✅ |
-| 本地图标 | 读取本地 | 编辑配置+文件操作 | 文件操作 | 用户本人 | ❌ | ❌|
+| 远程图标 | 编辑配置 | 清理缓存 | 图标作者 | ✅ | ✅ |
+| 本地图标 | 编辑配置+文件操作 | 文件操作 | 用户本人 | ❌ | ❌|
 
 ### 方式一：远程图标<br>
 *跨设备同步策略组图标，及时获取图标更新*<br>
@@ -22,13 +22,12 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 `static=Hong Kong, 🇭🇰01, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hong_Kong.png`<br>
 ```ruby
 注意：此处“img”前的英文逗号和空格以及“Hong_Kong.png”图标名称中的下划短横线和字母大小写
-```
+```<br>
 3. 重启 Quantumult X 即可见到效果。<br>
-
-<font color=red>更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“**我的 iPhone 或 iCloud Drive-Quantumult X-Images**”，删除Images文件夹内所有缓存文件)，并重启 Quantumult X，远程图标会重新下载并生效。</font>
-
 [查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)
+
+<font color=red>更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“**我的 iPhone 或 iCloud Drive-Quantumult X-Images**”，删除Images文件夹内所有缓存文件)，并重启 Quantumult X，远程图标会重新下载并生效。</font>
 
 ### 方式二：本地图标<br>
 *不支持多设备同步图标；图标更新时，需要手动下载图标并进行本地替换操作*<br>
@@ -54,7 +53,8 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 </details>
 
 ## 更新日志
-<details><summary><font size=4>所有日志</font></summary><br>
+<details>
+<summary><strong>所有日志</strong></summary><br>
 v2.7<br>
 2020-4-12<br>
 1.图标新增：TestFlight.png、App_Store.png、iCloud.png、Apple_Music.png、AmyTelecom.png、CCCAT_C.png、CCCAT.png、JIYOU.png、CONAIR.png、CrossWall.png、NyanCat.png、Airport.png、Server.png、SS_Letter.png、SS.png、SSR_Letter.png、SSR.png、Trojan_Letter.png、Trojan.png、VMess_Letter.png、VMess.png、MY.png、Malaysia.png、IEPL.png<br>
