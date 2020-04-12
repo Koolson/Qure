@@ -22,7 +22,7 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 `static=Hong Kong, 🇭🇰01, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hong_Kong.png`<br>
 ```ruby
 注意：此处“img”前的英文逗号和空格以及“Hong_Kong.png”图标名称中的下划短横线和字母大小写
-```<br>
+```
 3. 重启 Quantumult X 即可见到效果。<br>
 [查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)
