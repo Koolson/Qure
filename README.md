@@ -6,16 +6,16 @@
 Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X/) 内策略组而精心设计的图标组。在这里你可以订阅、下载并更新它们。<br>
 
 ## 使用说明
-###方式对比
+### 方式对比
 | 方式 | 加载方式 | 添加图标 | 更新图标 | 图标维护 | 获取及时性 | 操作便利性 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 远程图标 | 联网下载 | 编辑配置 | 清理缓存 | 图标作者 | ✅ | ✅ |
 | 本地图标 | 读取本地 | 编辑配置+文件操作 | 文件操作 | 用户本人 | ❌ | ❌|
 
-###方式一：远程图标<br>
+### 方式一：远程图标<br>
 *跨设备同步策略组图标，及时获取图标更新*<br>
 *该操作以 Quantumult X v1.0.8-build249 为例*<br>
-1. 在 [常规图标预览](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)、[归档图标预览](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_Archived.png) 或 [IconSet 页面](https://github.com/Koolson/Qure/tree/master/IconSet) 中找到需要的策略组图标并记下**图标名称**；<br>
+1. 在 [常规图标预览](https://github.com/Koolson/Qure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)、[归档图标预览](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_Archived.png) 或 [IconSet 页面](https://github.com/Koolson/Qure/tree/master/IconSet) 中找到需要的策略组图标并记下**图标名称**；<br>
 2. 在 Quantumult X 的“配置文件-编辑”中找到[policy]下的策略组字段，并在该策略组的最后一个节点后方加上：<br>
 `img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名称.png`<br>
 例如：<br>
@@ -30,7 +30,7 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 [查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)
 
-###方式二：本地图标<br>
+### 方式二：本地图标<br>
 *不支持多设备同步图标；图标更新时，需要手动下载图标并进行本地替换操作*<br>
 *该操作以 Quantumult X v1.0.0-build91 为例*<br>
 
@@ -54,13 +54,12 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 </details>
 
 ## 更新日志
-<details><summary><font size=4>**所有日志**</font></summary><br>
+<details><summary><font size=4>所有日志</font></summary><br>
 v2.7<br>
 2020-4-12<br>
 1.图标新增：TestFlight.png、App_Store.png、iCloud.png、Apple_Music.png、AmyTelecom.png、CCCAT_C.png、CCCAT.png、JIYOU.png、CONAIR.png、CrossWall.png、NyanCat.png、Airport.png、Server.png、SS_Letter.png、SS.png、SSR_Letter.png、SSR.png、Trojan_Letter.png、Trojan.png、VMess_Letter.png、VMess.png、MY.png、Malaysia.png、IEPL.png<br>
 2.图标优化：Bookpedia.png、Download.png、Quantumult_X.png<br>
-3.图标更名：ITV_Hub.png、x0.1.png、x0.3.png、x0.5.png、x0.png、x1.png、x2.png、x3.png（旧：ITV Hub.png 已删除；＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png、＊3.png 仍支持订阅，并归档处理）
-
+3.图标更名：ITV_Hub.png、x0.1.png、x0.3.png、x0.5.png、x0.png、x1.png、x2.png、x3.png（旧：ITV Hub.png 已删除；＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png、＊3.png 仍支持订阅，并归档处理）<br>
 
 
 v2.6<br>
