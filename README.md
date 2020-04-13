@@ -60,6 +60,7 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 <summary><strong>所有日志</strong></summary><br>
 <strong>v2.7</strong><br>
 2020-4-12<br>
+*所有图标名称均可在效果图中获知；<br>
 1. 图标新增：direct.png、proxy.png、reject.png、TestFlight.png、App_Store.png、iCloud.png、Apple_Music.png、AmyTelecom.png、CCCAT_C.png、CCCAT.png、JIYOU.png、CONAIR.png、CrossWall.png、NyanCat.png、Airport.png、Server.png、SS_Letter.png、SS.png、SSR_Letter.png、SSR.png、Trojan_Letter.png、Trojan.png、VMess_Letter.png、VMess.png、MY.png、Malaysia.png、IEPL.png<br>
 2. 图标优化：Bookpedia.png、Download.png、Quantumult_X.png、VMess_Letter.png<br>
 3. 图标更名：ITV_Hub.png、x0.1.png、x0.3.png、x0.5.png、x0.png、x1.png、x2.png、x3.png<br>
