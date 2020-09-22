@@ -121,4 +121,6 @@ Quantumult X最美简雅风策略组图标现以Qure全新呈现<br>
 
 ## 效果图预览
 [查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)<br>
-![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)
+![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)\
+
+![Koolson's github stats](https://github-readme-stats.vercel.app/api?username=koolson&show_icons=true&theme=vue-dark)
